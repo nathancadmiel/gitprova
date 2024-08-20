@@ -1,0 +1,12 @@
+{
+  "name": "super-calc",
+  "version": "0.0.1",
+  "description": "Super Calculadora",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Arthur V. M. Dantas",
+  "license": "ISC"
+}
